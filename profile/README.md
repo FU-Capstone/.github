@@ -20,10 +20,10 @@ With GameHub, students don’t just build games—they build futures.
 
 ## 👉🏻 Right now !
 📺 _Watch the slide and discover how we built GameHub with modern technologies and architecture !_
-> [![GameHub Presentation](https://github.com/FU-Capstone/.github/blob/main/images/FPTGameHubPresenThumbnail.png)](https://www.canva.com/design/DAGkQYmtbqU/70zKw0B5BfacWQl0vBbvHA/view?embed)
+> [![GameHub Presentation](https://github.com/FU-Capstone/.github/blob/main/images/slideview01.gif)](https://www.canva.com/design/DAGkQYmtbqU/70zKw0B5BfacWQl0vBbvHA/view)
 
-📄 _Get a complete understanding of our project by reading the document report !_
-> [GameHubPlatform Report](https://github.com/FU-Capstone/.github/blob/main/docs/GameHubPlatform_Report.pdf)
+🗃️ _Get a complete understanding of our project by reading the document report !_
+> - 📃 [GameHubPlatform Report](https://github.com/FU-Capstone/.github/blob/main/docs/GameHubPlatform_Report.pdf)
 
 
 ----
