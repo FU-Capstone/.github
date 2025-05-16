@@ -28,4 +28,4 @@ With GameHub, students don’t just build games—they build futures.
 
 ----
 
-For more information contact at email](https://opensource.microsoft.com/codeofconduct/faq/).
+For more information contact at 📫 email [platform.gamehub@gmail.com](platform.gamehub@gmail.com).
