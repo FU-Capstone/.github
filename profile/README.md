@@ -12,25 +12,19 @@ The GameHub Platform is designed for students and aspiring game developers—esp
 
    - 💰 A Pathway to Monetization, allowing students to turn their creative ideas into reality and earn profits.
 
-  - 🎓 Real-World Experience in game development, helping students build their portfolios and skills.
+   - 🎓 Real-World Experience in game development, helping students build their portfolios and skills.
 
-  - 🌐 Community Connection with like-minded gamers, designers, and developers, enhancing learning and collaboration.
+   - 🌐 Community Connection with like-minded gamers, designers, and developers, enhancing learning and collaboration.
 
 With GameHub, students don’t just build games—they build futures.
 
-## 📺 Right now !
-_Watch the slide and discover how we built GameHub with modern technologies and architecture !_
+## 👉🏻 Right now !
+📺 _Watch the slide and discover how we built GameHub with modern technologies and architecture !_
 > [![GameHub Presentation](https://github.com/FU-Capstone/.github/blob/main/images/FPTGameHubPresenThumbnail.png)](https://www.canva.com/design/DAGkQYmtbqU/70zKw0B5BfacWQl0vBbvHA/view?embed)
 
+📄 _Get a complete understanding of our project by reading the document report !_
+> [GameHubPlatform Report](https://github.com/FU-Capstone/.github/blob/main/docs/GameHubPlatform_Report.pdf)
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
-* Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-and not [opensource@microsoft.com](mailto:opensource@microsoft.com) to ask questions specific to an individual Microsoft
-repository.
-
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
 
 ----
 
