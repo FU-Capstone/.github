@@ -18,10 +18,9 @@ The GameHub Platform is designed for students and aspiring game developers—esp
 
 With GameHub, students don’t just build games—they build futures.
 
-
-Right now, Watch the slide and discover how we built GameHub with modern technologies and architecture!
-[![GameHub Presentation](https://via.placeholder.com/800x450.png?text=View+GameHub+Presentation)](https://www.canva.com/design/DAGkQYmtbqU/70zKw0B5BfacWQl0vBbvHA/view?embed)
-
+> [!NOTE]
+> 📺 Right now, Watch the slide and discover how we built GameHub with modern technologies and architecture!
+> [![GameHub Presentation](https://github.com/FU-Capstone/.github/blob/main/images/FPTGameHubPresenThumbnail.png)](https://www.canva.com/design/DAGkQYmtbqU/70zKw0B5BfacWQl0vBbvHA/view?embed)
 
 
 * [Explore featured projects](https://opensource.microsoft.com/projects/)
@@ -35,4 +34,4 @@ Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more
 
 ----
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+For more information contact at email](https://opensource.microsoft.com/codeofconduct/faq/).
