@@ -6,20 +6,20 @@ The FPT GameHub Team is a group of senior students from FPT University who came 
 ## 🎮 Discover the GameHub Platform
 The GameHub Platform is designed for students and aspiring game developers—especially those at FPTU and participants in game-related courses. This web application provides:
 
-   🛠️ Easy-to-Use Tools and Resources for developing, publishing, and trading games and design assets.
+   - 🛠️ Easy-to-Use Tools and Resources for developing, publishing, and trading games and design assets.
 
-   💡 Empowerment and Opportunities for students passionate about game creation, including those facing financial challenges.
+   - 💡 Empowerment and Opportunities for students passionate about game creation, including those facing financial challenges.
 
-   💰 A Pathway to Monetization, allowing students to turn their creative ideas into reality and earn profits.
+   - 💰 A Pathway to Monetization, allowing students to turn their creative ideas into reality and earn profits.
 
-  🎓 Real-World Experience in game development, helping students build their portfolios and skills.
+  - 🎓 Real-World Experience in game development, helping students build their portfolios and skills.
 
-  🌐 Community Connection with like-minded gamers, designers, and developers, enhancing learning and collaboration.
+  - 🌐 Community Connection with like-minded gamers, designers, and developers, enhancing learning and collaboration.
 
 With GameHub, students don’t just build games—they build futures.
 
-> [!NOTE]
-> 📺 Right now, Watch the slide and discover how we built GameHub with modern technologies and architecture!
+## 📺 Right now !
+_Watch the slide and discover how we built GameHub with modern technologies and architecture !_
 > [![GameHub Presentation](https://github.com/FU-Capstone/.github/blob/main/images/FPTGameHubPresenThumbnail.png)](https://www.canva.com/design/DAGkQYmtbqU/70zKw0B5BfacWQl0vBbvHA/view?embed)
 
 
